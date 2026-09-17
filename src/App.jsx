@@ -468,9 +468,9 @@ function App() {
 
           <a
             className="contact-email"
-            href="mailto:justina.jostle.tech@gmail.com"
+            href="mailto:justina.jostle.007@gmail.com"
           >
-            justina.jostle.tech@gmail.com
+            justina.jostle.007@gmail.com
           </a>
 
         </section>
